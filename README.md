@@ -27,3 +27,7 @@ try PanDocConvert (
   resultFile: "/tmp/test.html",
   resultType: "html")
 ```
+
+# Reference
+
+[Pandoc Website: http://pandoc.org](http://pandoc.org)
